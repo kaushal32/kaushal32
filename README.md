@@ -11,5 +11,5 @@
 - ⚡ Fun fact: Coder 
 
 
-[![Kaushal32's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kaushal3200710)](https://github.com/kaushal3200710&theme=dracula/github-readme-activity-graph)
+[![kaushal32's github activity graph](https://activity-graph.herokuapp.com/graph?username=kaushal3200710)](https://github.com/kaushal3200710&theme=dracula/github-readme-activity-graph)
 
