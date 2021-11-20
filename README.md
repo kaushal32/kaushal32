@@ -11,5 +11,6 @@
 - ⚡ Fun fact: Coder 
 
 
-[![Kaushal Kumar's github activity graph](https://activity-graph.herokuapp.com/graph?username=kaushal32)](https://github.com/kaushal32&theme=monokai/github-readme-activity-graph)
-
+[![Kaushal Kumar's github activity graph](https://activity-graph.herokuapp.com/graph?username=kaushal32&theme=monokai
+&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/kaushal32
+/github-readme-activity-graph)
