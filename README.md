@@ -9,4 +9,7 @@
 - 📫 How to reach me: Instagram - @kaushal.k15, Twitter - @kaushal15k 
 - 😄 Pronouns:Inexorable
 - ⚡ Fun fact: Coder 
--->
+
+
+[![Kaushal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kaushal00710)](https://github.com/kaushal00710&theme=dracula/github-readme-activity-graph)
+
