@@ -12,3 +12,6 @@
 
 
 [![Kaushal Kumar's github activity graph](https://activity-graph.herokuapp.com/graph?username=kaushal32&theme=monokai)](https://github.com/kaushal32/github-readme-activity-graph)
+
+
+![snake gif](https://github.com/kaushal32/kaushal32/blob/output/github-contribution-grid-snake.gif)
