@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/kaushal-kumar-a18402215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushal kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/kaushal.k15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaushal.k15" height="30" width="40" /></a>
- <a href="https://www.twitter.com/in/kaushal15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaushal kumar" height="30" width="40" /></a>
+ <a href="https://www.twitter.com/in/kaushal15k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaushal15k" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
