@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **C/Python**
 - 🤔 I’m looking for help with Programming
 - 💬 Ask me about CS
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal32&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal32" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kaushal-kumar-a18402215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushal kumar" height="30" width="40" /></a>
@@ -21,9 +21,6 @@
 
 [![Kaushal Kumar's github activity graph](https://activity-graph.herokuapp.com/graph?username=kaushal32&theme=chartreuse-dark)](https://github.com/kaushal32/github-readme-activity-graph)
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal32&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal32" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushal32" alt="kaushal32" /></a> </p>
 
 
