@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on **OOPs**
 - 🌱 I’m currently learning **Java**
 - 👯 I’m looking to collaborate on **C/Python**
-- 🤔 I’m looking for help with Programming
 - 💬 Ask me about CS
 
 
