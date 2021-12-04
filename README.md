@@ -27,7 +27,6 @@
 
 [![Kaushal Kumar's github activity graph](https://activity-graph.herokuapp.com/graph?username=kaushal32&theme=chartreuse-dark)](https://github.com/kaushal32/github-readme-activity-graph)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushal32" alt="kaushal32" /></a> </p>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaushal32&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
