@@ -6,8 +6,8 @@
   <a href="https://github.com/kaushal32/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Young-Hustler%20from%20INDIA!;Inexorable;Always%20learning%20new%20things.&font=Fira%20Code&center=true&width=440&height=45&color=61CC8C&vCenter=true&size=22"></a>
 </p>
 
-- 🔭 I’m currently working on **DSA**
-- 🌱 I’m currently learning **Java**
+- 🔭 I’m currently working on **DSA CP and ML projects**
+- 🌱 I’m currently learning **ML and Full Stack Development**
 - 👯 I’m looking to collaborate on **C/Python/Java**
 - 💬 Ask me about CS
 
