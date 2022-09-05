@@ -31,6 +31,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaushal32&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal32a&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushal32&theme=blue-green&show_icons=true&locale=en" alt="kaushal32" /></p>
 
