@@ -25,19 +25,15 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-[![Kaushal Kumar's github activity graph](https://activity-graph.herokuapp.com/graph?username=kaushal32&theme=chartreuse-dark)](https://github.com/kaushal32/github-readme-activity-graph)
 
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaushal32&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal32&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushal32&theme=blue-green&show_icons=true&locale=en" alt="kaushal32" /></p>
 
 
-![snake gif](https://github.com/kaushal32/kaushal32/blob/output/github-contribution-grid-snake.gif)
 
 <h6 align= "center">Show Some ❤ by giving ⭐ to my Reposiotries</h6>
 
